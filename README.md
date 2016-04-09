@@ -129,3 +129,9 @@ was constructed as a standalone program before being integrated into one piece. 
 program passes its output to the next portion. The program is written in an object-oriented, C++ clone  
 manner, and is the largest Python project I have written to date. This project allowed me to familiarize  
 with classes, I/O, User-defined functions, arithmatic, and string manipulation.
+
+###Current Projects:
+
+I am currently learning more about the .re library for Python, and its use as a text scraping tool  
+for web pages. I am also researching the Beautiful Soup Python Package, which can scrape HTML pages  
+into SQL queries for quick database creation.
