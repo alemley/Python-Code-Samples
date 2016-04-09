@@ -3,14 +3,10 @@
 *See Operating Systems and Programming Languages for more complex projects
 or Algorithms for routine, daily problem solutions*
 
-1. First ordered list item
-2. Another item
-..* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-..1. Ordered sub-list
-4. And another item.
 1. Algorithms:
+
 ..* Lab001:
+
 ...Python implementation of classic hangman. This version reads in a list of
 ...countries and capitols, strips out extra punctuation and special characters,
 ...then gives the user three opportunities to guess incorrectly before losing 
@@ -18,13 +14,17 @@ or Algorithms for routine, daily problem solutions*
 ...ensure they cannot guess the same character twice. When the user fills up
 ...the blank word, the answer is checked against the solution and a win/lose
 ...condition is then returned.
+
 ..* Lab002:
-This lab compares the performance of some of Python's common data structures
-using the timeit library. Lists and maps are written to and read from in order
-to compare the runtime needed to process a large list of integers. I chose lists
-and maps because they are two extremely versatile data structures that can be
+
+This lab compares the performance of some of Python's common data structures  
+using the timeit library. Lists and maps are written to and read from in order  
+to compare the runtime needed to process a large list of integers. I chose lists  
+and maps because they are two extremely versatile data structures that can be  
 applied to most, if not all programs.
+
 ..* Lab005:
+
 This lab generates a user-specified number of points in a 2D space, then runs
 a closest-pair analysis on the points using their relative positions to one-another.
 The program switches out a global closest-pair for a local closest-pair any time the
