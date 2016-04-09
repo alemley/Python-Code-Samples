@@ -3,19 +3,19 @@
 *See Operating Systems and Programming Languages for more complex projects
 or Algorithms for routine, daily problem solutions*
 
-1. Algorithms:
+###Algorithms:
 
 * Lab001:
 
-...Python implementation of classic hangman. This version reads in a list of
-...countries and capitols, strips out extra punctuation and special characters,
-...then gives the user three opportunities to guess incorrectly before losing 
-...the game. The user's past guesses are stored in a list data structure to
-...ensure they cannot guess the same character twice. When the user fills up
-...the blank word, the answer is checked against the solution and a win/lose
-...condition is then returned.
+Python implementation of classic hangman. This version reads in a list of  
+countries and capitols, strips out extra punctuation and special characters,  
+then gives the user three opportunities to guess incorrectly before losing 
+the game. The user's past guesses are stored in a list data structure to  
+ensure they cannot guess the same character twice. When the user fills up  
+the blank word, the answer is checked against the solution and a win/lose  
+condition is then returned.
 
-..* Lab002:
+* Lab002:
 
 This lab compares the performance of some of Python's common data structures  
 using the timeit library. Lists and maps are written to and read from in order  
