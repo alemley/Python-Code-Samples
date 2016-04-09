@@ -3,7 +3,12 @@
 *See Operating Systems and Programming Languages for more complex projects
 or Algorithms for routine, daily problem solutions*
 
-##Contents:
+1. First ordered list item
+2. Another item
+..* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+..1. Ordered sub-list
+4. And another item.
 1. Algorithms:
 ..* Lab001:
 ...Python implementation of classic hangman. This version reads in a list of
