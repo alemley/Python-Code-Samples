@@ -4,15 +4,15 @@
 or Algorithms for routine, daily problem solutions*
 
 ##Contents:
-		- Algorithms:
-			- Lab001:
-				Python implementation of classic hangman. This version reads in a list of
-				countries and capitols, strips out extra punctuation and special characters,
-				then gives the user three opportunities to guess incorrectly before losing 
-				the game. The user's past guesses are stored in a list data structure to
-				ensure they cannot guess the same character twice. When the user fills up
-				the blank word, the answer is checked against the solution and a win/lose
-				condition is then returned.
+		1. Algorithms:
+			..* Lab001:
+			...Python implementation of classic hangman. This version reads in a list of
+			...countries and capitols, strips out extra punctuation and special characters,
+			...then gives the user three opportunities to guess incorrectly before losing 
+			...the game. The user's past guesses are stored in a list data structure to
+			...ensure they cannot guess the same character twice. When the user fills up
+			...the blank word, the answer is checked against the solution and a win/lose
+			...condition is then returned.
 			- Lab002:
 				This lab compares the performance of some of Python's common data structures
 				using the timeit library. Lists and maps are written to and read from in order
@@ -74,28 +74,28 @@ or Algorithms for routine, daily problem solutions*
 				A larger scale, more in-depth version of lab012 which utilizes more efficient mechanisms to
 				increase execution efficiency.
 				
-		##perating Systems:
-			###Barber Shop:
+		- Operating Systems:
+			- Barber Shop:
 				This project uses threads and mutexes to synchronize multiple processes and coordinate appropriate
 				output. The problem states that a barber goes to sleep if his shop is empty, but if someone comes
 				into his shop, they wake him up and ask for a hair cut. Additional patrons come in and sit in the
 				waiting area if the barber is busy. Once all available customers have been served, the barber shuts
 				down his shop. This project exposed me to the concept of multi-threading and allowed me to get some
 				practice with synchronization.
-			###Banker's Algorithm:
+			- Banker's Algorithm:
 				This program focuses on resource allocation. It takes requests from customers, checks the current
 				available resources, then makes loans if it can without deficiting resources. When a customer is 
 				done with the resources, the banker gets them back and can loan them to a different customer. The 
 				banker is the main process, and each new customer is a separate thread, which all compete for the 
 				same pool of resources.
-			###Final Project - San Diego Zoo:
+			- Final Project - San Diego Zoo:
 				This is a larger-scale multi-threading project which utilizes concepts from both the barber shop 
 				and banker's algorithm to organize queues of patrons, distribute resources, and protect attributes
 				accessed by multiple threads. The program ehibits all of the important pieces of operating system
 				resource distribution and process synchronization.
 				
-		##Programming Languages:
-			###Scheme Interpreter:
+		- Programming Languages:
+			- Scheme Interpreter:
 				My professor wrote a scheme interpreter in C++, which we had to translate to any language we chose
 				while retaining complete functionality. The finished python program consists of Scanning, parsing,
 				tokenizing, and executing scheme/lisp input and returning the result. Each part of the finished product
