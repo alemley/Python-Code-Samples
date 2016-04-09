@@ -93,31 +93,38 @@ order to guarantee the highest overall value is in posession.
 A larger scale, more in-depth version of lab012 which utilizes more efficient mechanisms to  
 increase execution efficiency.
 
-- Operating Systems:
-- Barber Shop:
-This project uses threads and mutexes to synchronize multiple processes and coordinate appropriate
-output. The problem states that a barber goes to sleep if his shop is empty, but if someone comes
-into his shop, they wake him up and ask for a hair cut. Additional patrons come in and sit in the
-waiting area if the barber is busy. Once all available customers have been served, the barber shuts
-down his shop. This project exposed me to the concept of multi-threading and allowed me to get some
+###Operating Systems:
+
+######Barber Shop:
+
+This project uses threads and mutexes to synchronize multiple processes and coordinate appropriate  
+output. The problem states that a barber goes to sleep if his shop is empty, but if someone comes  
+into his shop, they wake him up and ask for a hair cut. Additional patrons come in and sit in the  
+waiting area if the barber is busy. Once all available customers have been served, the barber shuts  
+down his shop. This project exposed me to the concept of multi-threading and allowed me to get some  
 practice with synchronization.
-- Banker's Algorithm:
-This program focuses on resource allocation. It takes requests from customers, checks the current
-available resources, then makes loans if it can without deficiting resources. When a customer is 
-done with the resources, the banker gets them back and can loan them to a different customer. The 
-banker is the main process, and each new customer is a separate thread, which all compete for the 
+
+######Banker's Algorithm:
+
+This program focuses on resource allocation. It takes requests from customers, checks the current  
+available resources, then makes loans if it can without deficiting resources. When a customer is  
+done with the resources, the banker gets them back and can loan them to a different customer. The  
+banker is the main process, and each new customer is a separate thread, which all compete for the  
 same pool of resources.
-- Final Project - San Diego Zoo:
-This is a larger-scale multi-threading project which utilizes concepts from both the barber shop 
-and banker's algorithm to organize queues of patrons, distribute resources, and protect attributes
-accessed by multiple threads. The program ehibits all of the important pieces of operating system
+
+######Final Project - San Diego Zoo:
+
+This is a larger-scale multi-threading project which utilizes concepts from both the barber shop  
+and banker's algorithm to organize queues of patrons, distribute resources, and protect attributes  
+accessed by multiple threads. The program ehibits all of the important pieces of operating system  
 resource distribution and process synchronization.
 
-- Programming Languages:
-- Scheme Interpreter:
-My professor wrote a scheme interpreter in C++, which we had to translate to any language we chose
-while retaining complete functionality. The finished python program consists of Scanning, parsing,
-tokenizing, and executing scheme/lisp input and returning the result. Each part of the finished product
-was constructed as a standalone program before being integrated into one piece. Each portion of the 
-program passes its output to the next portion. The program is written in an object-oriented, C++ clone
+###Programming Languages:
+
+######Scheme Interpreter:
+My professor wrote a scheme interpreter in C++, which we had to translate to any language we chose  
+while retaining complete functionality. The finished python program consists of Scanning, parsing,  
+tokenizing, and executing scheme/lisp input and returning the result. Each part of the finished product  
+was constructed as a standalone program before being integrated into one piece. Each portion of the  
+program passes its output to the next portion. The program is written in an object-oriented, C++ clone  
 manner, and is the largest Python project I have written to date.
