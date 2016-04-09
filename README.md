@@ -5,7 +5,7 @@ or Algorithms for routine, daily problem solutions*
 
 1. Algorithms:
 
-..* Lab001:
+* Lab001:
 
 ...Python implementation of classic hangman. This version reads in a list of
 ...countries and capitols, strips out extra punctuation and special characters,
