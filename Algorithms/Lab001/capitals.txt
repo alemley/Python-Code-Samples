@@ -1,0 +1,180 @@
+Kabul, Afghanistan
+Tirana, Albania
+Algiers, Algeria
+Andorra la Vella, Andorra
+Luanda, Angola
+Buenos Aires, Argentina
+Yerevan, Armenia
+Canberra, Australia
+Vienna, Austria
+Baku, Azerbaijan
+Nassau, The Bahamas
+Manama, Bahrain
+Dhaka, Bangladesh
+Bridgetown, Barbados
+Minsk, Belarus
+Brussels, Belgium
+Belmopan, Belize
+Porto Novo, Benin
+Thimphu, Bhutan
+La Paz, Bolivia
+Sarajevo, Bosnia
+Gaborone, Botswana
+Brasilia, Brazil
+Bandar Seri Begawan, Brunei
+Sofia, Bulgaria
+Ouagadougou, Burkina Faso
+Bujumbura, Burundi
+Phnom Penh, Cambodia
+Yaounde, Cameroon
+Ottawa, Canada
+Praia, Cape Verde
+Bangui, Central African Republic
+Santiago, Chile
+Beijing, China
+Bogota, Colombia
+Moroni, Comoros
+San Jose, Costa Rica
+Zagreb, Croatia
+Havana, Cuba
+Nicosia, Cyprus
+Prague, Czech Republic
+Copenhagen, Denmark
+Djibouti, Djibouti
+Roseau, Dominica
+Santo Domingo, Dominican Republic
+Dili, East Timor
+Quito, Ecuador
+Cairo, Egypt
+San Salvador, El Salvador
+Malabo, Equatorial Guinea
+Asmara, Eritrea
+Tallinn, Estonia
+Addis Ababa, Ethiopia
+Suva, Fiji
+Helsinki, Finland
+Paris, France
+Libreville, Gabon
+Banjul, Gambia
+Tbilisi, Georgia
+Berlin, Germany
+Accra, Ghana
+Athens, Greece
+Saint Georges, Grenada
+Guatemala City, Guatemala
+Georgetown, Guyana
+Port au Prince, Haiti
+Tegucigalpa, Honduras
+Budapest, Hungary
+Reykjavik, Iceland
+New Delhi, India
+Jakarta, Indonesia
+Tehran, Iran
+Baghdad, Iraq
+Dublin, Ireland
+Jerusalem, Israel
+Rome, Italy
+Kingston, Jamaica
+Tokyo, Japan
+Amman, Jordan
+Astana, Kazakhstan
+Nairobi, Kenya
+Tarawa Atoll, Kiribati
+Pyongyang, North Korea
+Seoul, South Korea
+Pristina, Kosovo
+Kuwait City, Kuwait
+Bishkek, Kyrgyzstan
+Vientiane, Laos
+Riga, Latvia
+Beirut, Lebanon
+Maseru, Lesotho
+Monrovia, Liberia
+Tripoli, Libya
+Vaduz, Liechtenstein
+Vilnius, Lithuania
+Luxembourg, Luxembourg
+Skopje, Macedonia
+Antananarivo, Madagascar
+Lilongwe, Malawi
+Kuala Lumpur, Malaysia
+Male, Maldives
+Bamako, Mali
+Valletta, Malta
+Majuro, Marshall Islands
+Nouakchott, Mauritania
+Port Louis, Mauritius
+Mexico City, Mexico
+Palikir, Micronesia
+Chisinau, Moldova
+Monaco, Monaco
+Ulaanbaatar, Mongolia
+Podgorica, Montenegro
+Rabat, Morocco
+Maputo, Mozambique
+Rangoon, Myanmar
+Windhoek, Namibia
+Kathmandu, Nepal
+Amsterdam, Netherlands
+Wellington, New Zealand
+Managua, Nicaragua
+Niamey, Niger
+Abuja, Nigeria
+Oslo, Norway
+Muscat, Oman
+Islamabad, Pakistan
+Melekeok, Palau
+Panama City, Panama
+Port Moresby, Papua New Guinea
+Asuncion, Paraguay
+Lima, Peru
+Manila, Philippines
+Warsaw, Poland
+Lisbon, Portugal
+Doha, Qatar
+Bucharest, Romania
+Moscow, Russia
+Kigali, Rwanda
+Basseterre, Saint Kitts
+Castries, Saint Lucia
+Kingstown, Saint Vincent
+Apia, Samoa
+Riyadh, Saudi Arabia
+Dakar, Senegal
+Belgrade, Serbia
+Victoria, Seychelles
+Freetown, Sierra Leone
+Singapore, Singapore
+Bratislava, Slovakia
+Ljubljana, Slovenia
+Honiara, Solomon Islands
+Mogadishu, Somalia
+Madrid, Spain
+Colombo, Sri Lanka
+Khartoum, Sudan
+Paramaribo, Suriname
+Mbabane, Swaziland
+Stockholm, Sweden
+Bern, Switzerland
+Damascus, Syria
+Taipei, Taiwan
+Dushanbe, Tajikistan
+Dar es Salaam, Tanzania
+Bangkok, Thailand
+Lome, Togo
+Port of Spain, Trinidad
+Tunis, Tunisia
+Ankara, Turkey
+Ashgabat, Turkmenistan
+Kampala, Uganda
+Kyiv, Ukraine
+Abu Dhabi, United Arab Emirates
+London, United Kingdom
+Washington DC, United States of America
+Montevideo, Uruguay
+Tashkent, Uzbekistan
+Caracas, Venezuela
+Hanoi, Vietnam
+Sanaa, Yemen
+Lusaka, Zambia
+Harare, Zimbabwe
