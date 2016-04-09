@@ -127,4 +127,5 @@ while retaining complete functionality. The finished python program consists of 
 tokenizing, and executing scheme/lisp input and returning the result. Each part of the finished product  
 was constructed as a standalone program before being integrated into one piece. Each portion of the  
 program passes its output to the next portion. The program is written in an object-oriented, C++ clone  
-manner, and is the largest Python project I have written to date.
+manner, and is the largest Python project I have written to date. This project allowed me to familiarize  
+with classes, I/O, User-defined functions, arithmatic, and string manipulation.
